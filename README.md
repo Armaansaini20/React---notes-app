@@ -1,2 +1,2 @@
 # React---notes-app
-a notes app createdwith react
+a notes app created with react
